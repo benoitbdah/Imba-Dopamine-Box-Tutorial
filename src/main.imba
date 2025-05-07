@@ -31,6 +31,7 @@ tag App
 				bgc:transparent @focus:blue1 @hover:blue2
 			a.active bgc:blue1
 		.tab d:box h:100%
+			div w:100%
 		.description px:30px
 
 	<self>
